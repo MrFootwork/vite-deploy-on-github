@@ -12,6 +12,7 @@ import HelloWorld from './components/HelloWorld.vue'
     </a>
   </div>
   <h1>Test</h1>
+  <h1>First publish works! Does the second publish work, too?</h1>
   <HelloWorld msg="Vite + Vue" />
 </template>
 
